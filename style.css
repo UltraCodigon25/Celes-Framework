@@ -115,7 +115,7 @@
 	}
 }
 body {
-	
+	background-color: #292929;
 }
 
 nav {
@@ -133,7 +133,6 @@ a {
 	margin: 3%;
 	padding: 1%;
 }
-
 a:hover {
 	color: black;
 	background-color: darkgray;
@@ -165,7 +164,9 @@ a:hover {
 }
 
 .cont1 {
+	background-color: darkgray;
 }
 
 .cont2 {
+	background-color: darkgray;
 }
